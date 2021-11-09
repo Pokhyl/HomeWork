@@ -1,8 +1,9 @@
-package com.example.homework
+package com.example.homework.DI
 
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import com.example.homework.UI.HomeWorkViewModel
 
 import dagger.Binds
 import dagger.Module

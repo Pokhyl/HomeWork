@@ -1,4 +1,4 @@
-package com.example.homework
+package com.example.homework.ENTITY
 
 import javax.inject.Inject
 

@@ -2,6 +2,10 @@ package com.example.homework
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.homework.DI.HomeWorkComponent
+import com.example.homework.ENTITY.Cat
+import com.example.homework.ENTITY.Dog
+import com.example.homework.ENTITY.Parrot
 import javax.inject.Inject
 
 class MainActivity : AppCompatActivity() {

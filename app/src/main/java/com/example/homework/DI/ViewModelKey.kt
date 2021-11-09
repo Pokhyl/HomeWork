@@ -1,4 +1,4 @@
-package com.example.homework
+package com.example.homework.DI
 
 
 import androidx.lifecycle.ViewModel
